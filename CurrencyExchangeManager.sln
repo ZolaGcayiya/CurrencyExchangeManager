@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyExchangeManager.WebApi", "CurrencyExchangeManager.WebApi\CurrencyExchangeManager.WebApi.csproj", "{AB2D9E99-9727-4D4D-84AC-CE0320B3266E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyExchangeManager.Test", "CurrencyExchangeManager.Test\CurrencyExchangeManager.Test.csproj", "{C53BDC8E-FEEB-4B11-A171-580197F0D1AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{61598AB6-EAB3-496A-A54E-D5E6FAA1FD39}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB2D9E99-9727-4D4D-84AC-CE0320B3266E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB2D9E99-9727-4D4D-84AC-CE0320B3266E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB2D9E99-9727-4D4D-84AC-CE0320B3266E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB2D9E99-9727-4D4D-84AC-CE0320B3266E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C53BDC8E-FEEB-4B11-A171-580197F0D1AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C53BDC8E-FEEB-4B11-A171-580197F0D1AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C53BDC8E-FEEB-4B11-A171-580197F0D1AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C53BDC8E-FEEB-4B11-A171-580197F0D1AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96544500-FCF7-4043-BE69-AFF9234A918E}
+	EndGlobalSection
+EndGlobal
